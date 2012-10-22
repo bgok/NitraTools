@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/nitratools/!svn/ver/2/NitraTools/src
+END
+install.rdf
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/nitratools/!svn/ver/2/NitraTools/src/install.rdf
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/nitratools/!svn/ver/2/NitraTools/src/license.txt
+END
+chrome.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/nitratools/!svn/ver/2/NitraTools/src/chrome.manifest
+END
+bootstrap.js
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/nitratools/!svn/ver/2/NitraTools/src/bootstrap.js
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/nitratools/!svn/ver/2/NitraTools/src/readme.txt
+END

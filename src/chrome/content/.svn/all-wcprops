@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/nitratools/!svn/ver/2/NitraTools/src/chrome/content
+END
+main.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/nitratools/!svn/ver/2/NitraTools/src/chrome/content/main.js
+END
+myPanel.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/nitratools/!svn/ver/7/NitraTools/src/chrome/content/myPanel.js
+END
+mainOverlay.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/nitratools/!svn/ver/2/NitraTools/src/chrome/content/mainOverlay.js
+END
+myModule.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/nitratools/!svn/ver/2/NitraTools/src/chrome/content/myModule.js
+END
+mainOverlay.xul
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/nitratools/!svn/ver/2/NitraTools/src/chrome/content/mainOverlay.xul
+END

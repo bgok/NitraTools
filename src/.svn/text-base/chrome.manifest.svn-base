@@ -1,0 +1,8 @@
+content  nitratools chrome/content/
+skin     nitratools classic/1.0   chrome/skin/classic/
+locale   nitratools en-US         chrome/locale/en-US/
+
+# The extension is bootstrapped in this scenario
+# To switch to XUL overlay based extension change 'em:bootstrap' to false in install.rdf
+# and use the following line:
+#overlay chrome://firebug/content/firebugOverlay.xul         chrome://nitratools/content/mainOverlay.xul
